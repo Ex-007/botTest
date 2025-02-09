@@ -4,7 +4,7 @@
   "description": "this is a bot for testing purpose",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "author": "ABTech",
   "license": "ISC",
